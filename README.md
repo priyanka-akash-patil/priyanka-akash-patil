@@ -118,7 +118,7 @@ Modern Education Society College of Engineering, Pune, India — *May 2015*
 
 ## 📬 Let's Connect
 
-I'm actively looking for **remote Java Full Stack / Senior Backend roles** in EMEA/APAC time zones.
+I'm immediate joiner actively looking for **remote Java Full Stack / Senior Backend roles** in EMEA/APAC time zones.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyankaapatil)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyankapatilakash@gmail.com)
