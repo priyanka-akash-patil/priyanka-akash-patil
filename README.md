@@ -1,6 +1,6 @@
 # Hey, I'm Priyanka Patil! 👋🏻
 
-> 🚀 **Senior Java Full Stack Developer** · 9+ Years · Building things that scale · Powered by ☕ & curiosity
+> 🚀 **Senior Java Full Stack Developer** · 8+ Years · Building things that scale · Powered by ☕ & curiosity
 
 ---
 
